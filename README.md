@@ -3,3 +3,5 @@
  of the sentence function. funtion has 2 perameters: createSentence(Nstate(Int), wordAmount(Int))<p>
  <br>
  <p> Will add more functionality because the higher the state the better the sentence, but comes with a slower reload speed.</p>
+<h1>LINK TO  MARKOV CHAIN WEBSITE</h1>
+<a href = "https://myclubproject-ja.herokuapp.com">Link here</a>
